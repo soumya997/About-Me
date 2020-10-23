@@ -36,3 +36,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Projects
+
+<div align=center>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Music-Generation-Using-Deep-Learning&theme=light)](https://github.com/soumya997/Music-Generation-Using-Deep-Learning)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=SIIM-ISIC-Melanoma-classification-Kaggle-challange&theme=light)](https://github.com/soumya997/SIIM-ISIC-Melanoma-classification-Kaggle-challange)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=Face-Mask-Detection-Using-Deep-Learning&theme=light)](https://github.com/soumya997/Face-Mask-Detection-Using-Deep-Learning)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=soumya997&repo=AI-Hacktoberfest&theme=light)](https://github.com/dsc-iem/AI-Hacktoberfest)
+
+
+
+</div>
